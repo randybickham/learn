@@ -11,3 +11,5 @@ export default function MyApp(){
         </div>
     )
 }
+
+error Couldn't find a package.json file in "/opt/render/project/src"
