@@ -12,4 +12,3 @@ export default function MyApp(){
     )
 }
 
-error Couldn't find a package.json file in "/opt/render/project/src"
